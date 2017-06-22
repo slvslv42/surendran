@@ -46,7 +46,7 @@ class LongestSubString {
 					obj.isLong(str.substring(i, id));
 		}
 			
-		System.out.println("Given "+str+", the answer is "+obj.result+", with the length of "+obj.l);
+		System.out.println(obj.result);
 	}
 	
 }
